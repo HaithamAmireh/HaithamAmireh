@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **haithamamireh@gmail.com**
 
-- ⚡ Fun fact **I love watching Anime and Reading Manga**
+- ⚡ Fun fact **I love watching Anime, reading Manga and playing video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
