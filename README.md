@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Automation**
+- 🌱 I’m currently learning **Development**
 
 - 📫 How to reach me **haithamamireh@gmail.com**
 
