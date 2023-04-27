@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **A side project**
 
-- 🌱 I’m currently learning **Development**
-
 - 📫 How to reach me **haithamamireh@gmail.com**
 
 - ⚡ Fun fact **I love watching Anime, reading Manga and playing video games**
