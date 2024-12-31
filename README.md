@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://haithamamireh.com/HaithamAmireh.pdf](https://haithamamireh.com/HaithamAmireh.pdf)
 
-- ⚡ Fun fact **I like Anime, Manga, and video Games.**
+- ⚡ Fun fact **I like Anime, Manga, video Games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haithamamireh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="haithamamireh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haithamamireh&show_icons=true&locale=en" alt="haithamamireh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haithamamireh&show_icons=true&theme=tokyonight&locale=en" alt="haithamamireh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haithamamireh&theme=highcontrast" alt="haithamamireh" /></p>
